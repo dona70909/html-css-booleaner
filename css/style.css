@@ -1,0 +1,11 @@
+.header-container{
+    background-color: rgb(32, 141, 243);
+    background-image: url("../img/pattern.png");
+    background-repeat: repeat;
+}
+
+
+.logo-header{
+    width:250px;
+    height:125px;
+}

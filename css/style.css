@@ -9,3 +9,55 @@
     width:250px;
     height:125px;
 }
+
+.title-article{
+    font-size: 50px;
+}
+
+.author, .data{
+    color:rgb(124, 124, 124);
+}
+
+.image-description{
+    font-size: 10px;
+}
+
+.article-list{
+    text-align: left;
+}
+
+.color-head-table{
+    background-color: rgb(22, 180, 233);
+}
+
+.row-blue{
+    background-color: rgb(113, 207, 238);
+}
+
+.head-title{
+    color:white;
+    text-align: left;
+}
+
+.subtitle{
+    color:rgb(202, 196, 196);
+}
+
+.container-image{
+    position: relative;
+}
+
+.text-image{
+    position:absolute;
+    top:10px;
+    font-size: 20px;
+    color:white
+}
+
+.yellow{
+    background-color: yellow;
+}
+
+#highlight-blu{
+    color:blue;
+}

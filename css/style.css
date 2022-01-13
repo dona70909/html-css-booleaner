@@ -14,10 +14,12 @@
 
 .title-article{
     font-size: 50px;
+    margin:0;
 }
 /* selctor main */
 .container-main{
     font-weight: 600;
+    
 }
 
 /* selector article */
@@ -30,6 +32,7 @@
 
 .data{
     font-size: 15px;
+    margin-bottom: 15px;
 }
 
 /* selector images */
@@ -39,11 +42,15 @@
 }
 
 /* slectors list(non funziona) */
+ul{
+    padding:20px;
+}
 .article-list{
     text-align: left;
 }
 
-/* selctors tabele */
+/* selctors table */
+
 .color-head-table{
     background-color: rgb(22, 180, 233);
 }
@@ -52,6 +59,7 @@
 .head-title{
     color:white;
     text-align: left;
+    margin:0;
 }
 
 .row-blue{

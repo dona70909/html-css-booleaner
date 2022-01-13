@@ -1,9 +1,19 @@
+body{
+    margin: 0;
+}
+
+main , footer{
+    margin-left: 8px;
+    margin-right: 8px;
+}
 
 /* selctors header */
+
 .header-container{
     background-color: rgb(32, 141, 243);
     background-image: url("../img/pattern.png");
     background-repeat: repeat;
+    
 }
 
 

@@ -1,3 +1,5 @@
+
+/* tag header */
 .header-container{
     background-color: rgb(32, 141, 243);
     background-image: url("../img/pattern.png");
@@ -13,11 +15,12 @@
 .title-article{
     font-size: 50px;
 }
-
+/* selctor main */
 .container-main{
     font-weight: 600;
 }
 
+/* selector article */
 .author, .data{
     color:rgb(124, 124, 124);
 }
@@ -29,15 +32,18 @@
     font-size: 15px;
 }
 
+/* selector images */
+
 .image-description{
     font-size: 10px;
 }
 
-/* non funziona */
+/* slectors list(non funziona) */
 .article-list{
     text-align: left;
 }
 
+/* selctors tabele */
 .color-head-table{
     background-color: rgb(22, 180, 233);
 }
@@ -52,6 +58,7 @@
     background-color: rgb(113, 207, 238);
 }
 
+/* footer selectors */
 .footer-title{
     color:rgb(202, 196, 196);
 }
@@ -67,6 +74,7 @@
     color:white
 }
 
+/* highlight selctors */
 .yellow{
     background-color: yellow;
 }

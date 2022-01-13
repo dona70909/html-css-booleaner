@@ -14,8 +14,19 @@
     font-size: 50px;
 }
 
+.container-main{
+    font-weight: 800;
+}
+
 .author, .data{
     color:rgb(124, 124, 124);
+}
+.author{
+    font-size: 20px;
+}
+
+.data{
+    font-size: 15px;
 }
 
 .image-description{
@@ -61,5 +72,5 @@
 }
 
 #highlight-blu{
-    color:blue;
+    color:rgb(42, 181, 228)
 }
